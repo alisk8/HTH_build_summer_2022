@@ -1,5 +1,7 @@
 # Why this dataset?
 
+Movies and Tv Shows have become a major part of today's everyday life. It is very interesting and important to explore what movies / tv shows perfrom the best and how they affect the people they do. This data set will help do exactly that. With an enormous amount of data on movies / tv shows, we can find patterns between different factors and variables and possibly make some conclusions.
+
 # Questions to answer using this dataset
 
 1. Does age-certification play a role in the popularity of a show/movie?
